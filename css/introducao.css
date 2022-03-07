@@ -1,0 +1,19 @@
+.introducao {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.introducao h1 {
+    font-size: 6rem;
+}
+
+.introducao-perfil {
+    height: 460px;
+    width: 460px;
+    object-fit: cover;
+    border-radius: 100%;
+}
+
+.destaque-do-texto {
+    color: #359CA1;
+}
