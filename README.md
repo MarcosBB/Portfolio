@@ -1,4 +1,8 @@
 # Portfolio
+**`CALMA LÁ!!!` Este é um projeto ainda em faze inicial de desenvolvimento**
+
+
+
 Este é o frontend do meu portfolio! 
 
 🚀[**ACESSE AQUI**](https://marcosbb.github.io/Portfolio/)🚀
