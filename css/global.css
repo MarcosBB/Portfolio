@@ -1,5 +1,8 @@
 body {
+    display: grid;
+    gap: 80px;
     font-family: 'Fira Sans', Arial, Helvetica, sans-serif;
+    margin: 0px 140px;
 }
 
 h1 {
@@ -10,6 +13,7 @@ img {
     display: block;
 }
 
+
 /* Botão 1 */
 .botao1 {
     border: 2px solid #268C92;
@@ -18,13 +22,13 @@ img {
     display: flex;
     gap: 10px;
     color: #268C92;
-
 }
 
 .botao1 img{
     height: 22px;
     width: 22px;
 }
+
 
 /* Botão 2 */
 .botao2 {
@@ -34,10 +38,18 @@ img {
     display: flex;
     gap: 10px;
     color: #9FE6EA;
-
 }
 
 .botao2 img{
     height: 22px;
     width: 22px;
+}
+
+.botao2:hover {
+    background: #0D565A;;
+    border-radius: 100px;
+    padding: 15px 30px;
+    display: flex;
+    gap: 10px;
+    color: #7DD7DC;
 }

@@ -1,6 +1,7 @@
 .introducao {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 7fr 5fr;
+    gap: 140px;
 }
 
 .introducao h1 {
@@ -16,4 +17,26 @@
 
 .destaque-do-texto {
     color: #359CA1;
+}
+
+.introducao-apresentacao-titulo-localizacao {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.introducao-apresentacao {
+    display: grid;
+    gap: 40px;
+    
+}
+
+.introducao-apresentacao-sobre {
+    display: grid;
+    gap: 20px;
+}
+
+.introducao-apresentacao-sobre-botoes {
+    display: flex;
+    gap: 40px;
 }
