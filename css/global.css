@@ -14,14 +14,26 @@ img {
 }
 
 
-/* Botão 1 */
-.botao1 {
-    border: 2px solid #268C92;
+.botao1, .botao2 {
     border-radius: 100px;
     padding: 15px 30px;
     display: flex;
     gap: 10px;
+    align-items: center;
+    font-size: 0.875rem;
+    font-weight: 600;
+}
+
+
+/* Botão 1 */
+.botao1 {
+    border: 2px solid #268C92;
     color: #268C92;
+}
+
+.botao1:hover {
+    color: #146A6F;
+    border-color: #146A6F;
 }
 
 .botao1 img{
@@ -33,23 +45,15 @@ img {
 /* Botão 2 */
 .botao2 {
     background: #1C7B81;
-    border-radius: 100px;
-    padding: 15px 30px;
-    display: flex;
-    gap: 10px;
     color: #9FE6EA;
+}
+
+.botao2:hover {
+    background: #0D565A;
+    color: #7DD7DC;
 }
 
 .botao2 img{
     height: 22px;
     width: 22px;
-}
-
-.botao2:hover {
-    background: #0D565A;;
-    border-radius: 100px;
-    padding: 15px 30px;
-    display: flex;
-    gap: 10px;
-    color: #7DD7DC;
 }
