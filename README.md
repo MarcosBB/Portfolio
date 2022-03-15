@@ -1,7 +1,13 @@
 # Portfolio
-Meu portfolio!
+**`CALMA LÁ!!!` Este é um projeto ainda em faze inicial de desenvolvimento**
+
+
+
+Este é o frontend do meu portfolio! 
+
+🚀[**ACESSE AQUI**](https://marcosbb.github.io/Portfolio/)🚀
 
 ## Mockup
-O mockup foi feito no Figma.
+O UI foi mochado no Figma.
 [Acesse o protótipo](https://www.figma.com/proto/uvPgoqpKXRJanLppC1tENr/Portfolio?page-id=17%3A3&node-id=17%3A44)
 
