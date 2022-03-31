@@ -2,7 +2,6 @@ body {
     display: grid;
     gap: 80px;
     font-family: 'Fira Sans', Arial, Helvetica, sans-serif;
-    margin: 0px 140px;
 }
 
 h1 {

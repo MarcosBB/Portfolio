@@ -3,7 +3,8 @@
     grid-template-columns: 7fr 5fr;
     gap: 140px;
     align-items: center;
-    margin-bottom : 80px;
+    margin: 0px 140px;
+    margin-bottom: 80px;
 }
 
 .introducao-apresentacao-titulo {
